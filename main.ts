@@ -1,6 +1,7 @@
 // The Funniest AI Out-of-Office Reply — make.fun entry
 // Line (91 bytes, 89 chars): machine voice on vacation — even the
 // auto-reply is off. Punch at the end: hold indefinitely.
+// Criteria order: joke first, then machine voice, fit, freshness.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const LINE =
